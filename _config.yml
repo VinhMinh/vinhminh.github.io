@@ -127,11 +127,11 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             background-position: 0% 0%;
             background-repeat: no-repeat;
             background-attachment: fixed;
-            background-image: url(https://Mizuno-Ai.wu-kan.cn/pixiv/74559485_p1.webp);
+            background-image: url(https://scontent.fdad1-1.fna.fbcdn.net/v/t1.0-9/10885413_614629395337113_6735444425895489757_n.jpg?_nc_cat=102&_nc_sid=7aed08&_nc_oc=AQnBkeflLtfEcBgFYHCNk9D5lvS1wSPpjSky-oBqq_mcVCngyyyzomxJgbwhfr8dIMo&_nc_ht=scontent.fdad1-1.fna&oh=558b0ef8f4fcd63dbc76c1cbfbfd8202&oe=5EF55FF3);
           }
           @media (min-aspect-ratio: 2400/1850) {
             .wrap {
-              background-image: url(https://Mizuno-Ai.wu-kan.cn/pixiv/71932901_p0.webp);
+              background-image: url(https://scontent.fdad1-1.fna.fbcdn.net/v/t1.0-9/10885413_614629395337113_6735444425895489757_n.jpg?_nc_cat=102&_nc_sid=7aed08&_nc_oc=AQnBkeflLtfEcBgFYHCNk9D5lvS1wSPpjSky-oBqq_mcVCngyyyzomxJgbwhfr8dIMo&_nc_ht=scontent.fdad1-1.fna&oh=558b0ef8f4fcd63dbc76c1cbfbfd8202&oe=5EF55FF3);
             }
           }
           .sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
