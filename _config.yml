@@ -241,7 +241,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           </style>
         - | # Copyright
           <div>
-            <h4>Hobbies</h4>
+            <h4 style="color:#fff">Hobbies</h4>
             <p>Backpacking, Fishing</br>
             Game, Movies, Books<br>
               <a href="mailto:vinhminhthan@gmail.com">
