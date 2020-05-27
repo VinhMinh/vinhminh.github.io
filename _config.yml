@@ -243,7 +243,9 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           <div>
             <h4 style="color:#fff">Hobbies</h4>
             <p>Backpacking, Fishing</br>
-            Game, Movies, Books<br>
+            Game, Movies, Books
+            </p>
+            <p>
               <a href="mailto:vinhminhthan@gmail.com">
                 <i class="fas fa-envelope"></i>
               </a>
