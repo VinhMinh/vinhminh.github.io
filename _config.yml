@@ -49,7 +49,8 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/gh/Dreamer-Paul/Pio@2.4/static/pio.min.css"
         />
-        <script
+        
+        <!--<script
           async="async"
           src="https://cdn.jsdelivr.net/combine/gh/Dreamer-Paul/Pio@2.4/static/l2d.min.js,gh/Dreamer-Paul/Pio@2.4/static/pio.min.js"
           onload='
@@ -109,7 +110,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                   "https:\/\/cdn.jsdelivr.net/gh/xiaoski/live2d_models_collection/mikoto/mikoto.model.json",
                   "https:\/\/cdn.jsdelivr.net/gh/xiaoski/live2d_models_collection/uiharu/uiharu.model.json"]
               });'
-        ></script>
+        ></script>-->
       - | # 百度爬虫推送，http站点使用 http://push.zhanzhang.baidu.com/push.js
         <script
           src='https://zz.bdstatic.com/linksubmit/push.js'
