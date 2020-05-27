@@ -1,8 +1,5 @@
 title: vinhminh # vm
 description: | # VM ，<br/>VM
-  Hobbies<br/>
-  Backpacking, Fishing<br/>
-  Game, Movies, Books<br/>
   <a href="mailto:vinhminhthan@gmail.com">
     <i class="fas fa-envelope"></i>
   </a>
@@ -253,7 +250,9 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           </style>
         - | # Copyright
           <div>
-            Theme parent https://wu-kan.cn/
+            ###Hobbies
+            <p>Backpacking, Fishing</p>
+            <p>Game, Movies, Books</p>
           </div>
   home: # Home
     append_to_section_tag:
