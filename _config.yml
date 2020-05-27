@@ -251,16 +251,6 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
               transform: rotate3d(0, 1, 0, -180deg);
             }
           </style>
-        - | # Contact Us
-          <div>
-            <i class="fas fa-envelope"></i>
-            vinhminhthan@gmail.com
-          </div>
-        - | # Contact Us
-          <div>
-            <i class="fab fa-phone"></i>
-            0779623272
-          </div>
   home: # Home
     append_to_section_tag:
       - key: data-markdown
