@@ -74,7 +74,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css"
         />
         <link
-          rel="stylesheet"	   href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"	          onload='
+          rel="stylesheet"	   href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
         />
       - | # 引入live2d看板娘！不需要可以把这一项都删掉
         <link
