@@ -25,12 +25,12 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       - | # 网站小图标，可换成你自己的图片，改href中的部分即可
         <link
           rel="apple-touch-icon-precomposed"
-          href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320"
+          href="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.0-9/10885413_614629395337113_6735444425895489757_n.jpg?_nc_cat=102&_nc_sid=7aed08&_nc_oc=AQnBkeflLtfEcBgFYHCNk9D5lvS1wSPpjSky-oBqq_mcVCngyyyzomxJgbwhfr8dIMo&_nc_ht=scontent.fdad1-1.fna&oh=558b0ef8f4fcd63dbc76c1cbfbfd8202&oe=5EF55FF3"
         />
         <link
           rel="shortcut
           icon"
-          href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=32"
+          href="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.0-9/10885413_614629395337113_6735444425895489757_n.jpg?_nc_cat=102&_nc_sid=7aed08&_nc_oc=AQnBkeflLtfEcBgFYHCNk9D5lvS1wSPpjSky-oBqq_mcVCngyyyzomxJgbwhfr8dIMo&_nc_ht=scontent.fdad1-1.fna&oh=558b0ef8f4fcd63dbc76c1cbfbfd8202&oe=5EF55FF3"
         />
       - | # 来自lanyon的页面样式，不要改
         <link
