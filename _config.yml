@@ -251,6 +251,10 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
               transform: rotate3d(0, 1, 0, -180deg);
             }
           </style>
+        - | # Copyright
+          <div>
+            Theme parent https://wu-kan.cn/
+          </div>
   home: # Home
     append_to_section_tag:
       - key: data-markdown
