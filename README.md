@@ -48,11 +48,11 @@ Industrial University of Ho Chi Minh City - IUH
 
 <!-- slide vertical=true -->
 
-- **C/C++**, Basic
-- **Node JS / React JS**, Basic
+- **C/C++**, Familiar
+- **Node JS / React JS**, Familiar
 - **HTML5, Css, Javascript, Jquery**, Fluent
 - **Wordpress**, Fluent
-- **Php/Laravel 5**, Familiar
+- **Php/Laravel 5**, Fluent
 
 <!-- slide vertical=true -->
 
