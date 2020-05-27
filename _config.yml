@@ -1,14 +1,5 @@
 title: vinhminh # vm
 description: | # VM ，<br/>VM
-  <a href="mailto:vinhminhthan@gmail.com">
-    <i class="fas fa-envelope"></i>
-  </a>
-  <a href="https://www.facebook.com/ga.gapro.5">
-    <i class="fab fa-facebook"></i>
-  </a>
-  <a href="https://www.linkedin.com/in/minh-v%C4%A9nh-6baba899/">
-    <i class="fab fa-linkedin-in"></i>
-  </a>
 jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
   default:
     body:
@@ -252,7 +243,17 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           <div>
             <h4>Hobbies</h4>
             <p>Backpacking, Fishing</br>
-            Game, Movies, Books</p>
+            Game, Movies, Books<br>
+              <a href="mailto:vinhminhthan@gmail.com">
+                <i class="fas fa-envelope"></i>
+              </a>
+              <a href="https://www.facebook.com/ga.gapro.5">
+                <i class="fab fa-facebook"></i>
+              </a>
+              <a href="https://www.linkedin.com/in/minh-v%C4%A9nh-6baba899/">
+                <i class="fab fa-linkedin-in"></i>
+              </a>
+            </p>
           </div>
   home: # Home
     append_to_section_tag:
