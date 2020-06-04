@@ -223,7 +223,8 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
               perspective: 900px;
             }
             .effect-info {
-              text-align: center;
+              text-align: left;
+              padding-left: 20px;
               backface-visibility: hidden;
               position: absolute;
               top: 0;
