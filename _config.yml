@@ -1,9 +1,8 @@
 title: vinhminh # vm
 description: | # VM ，<br/>VM
-  Date of birth:  Mar 18, 1990<br/>
-  Gender: Male<br/>
-  Phone: vinhminhthan@gmail.com<br/>
-  Address QNam, Vietnam<br/>
+  Hobbies:<br/>
+  Backpacking, Fishing</br>
+  Game, Movies, Books</br>
 jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
   default:
     body:
@@ -250,10 +249,10 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           </style>
         - | # Copyright
           <div>
-            <h4 style="color:#fff">Hobbies</h4>
-            <p>Backpacking, Fishing</br>
-            Game, Movies, Books
-            </p>
+           <p>Date of birth:  Mar 18, 1990<br/>
+            Gender: Male<br/>
+            Phone: 0779623272<br/>
+            Address QNam, Vietnam<br/></p>
             <p>
               <a href="mailto:vinhminhthan@gmail.com">
                 <i class="fas fa-envelope"></i>
