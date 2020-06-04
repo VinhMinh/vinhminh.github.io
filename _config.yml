@@ -1,6 +1,6 @@
 title: vinhminh # vm
 description: | # VM ，<br/>VM
-  <h4 style="color: #fff">Hobbies:</h4><br/>
+  <h4 style="color: #fff; margin-top:0">Hobbies:</h4>
   Backpacking, Fishing, Game, Movies, Books
 jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
   default:
