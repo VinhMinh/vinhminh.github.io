@@ -1,5 +1,9 @@
 title: vinhminh # vm
 description: | # VM ，<br/>VM
+  Date of birth:  Mar 18, 1990<br/>
+  Gender: Male<br/>
+  Phone: vinhminhthan@gmail.com<br/>
+  Address QNam, Vietnam<br/>
 jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
   default:
     body:
