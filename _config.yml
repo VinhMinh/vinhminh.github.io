@@ -1,6 +1,6 @@
 title: vinhminh # vm
 description: | # VM ，<br/>VM
-  Hobbies:<br/>
+  <strong>Hobbies:</strong><br/>
   Backpacking, Fishing</br>
   Game, Movies, Books</br>
 jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
@@ -252,7 +252,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
            <p>Date of birth:  Mar 18, 1990<br/>
             Gender: Male<br/>
             Phone: 0779623272<br/>
-            Address QNam, Vietnam<br/></p>
+            Address: QNam, Vietnam<br/></p>
             <p>
               <a href="mailto:vinhminhthan@gmail.com">
                 <i class="fas fa-envelope"></i>
