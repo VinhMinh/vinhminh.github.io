@@ -1,8 +1,7 @@
 title: vinhminh # vm
 description: | # VM ，<br/>VM
   <h4 style="color: #fff">Hobbies:</h4><br/>
-  Backpacking, Fishing</br>
-  Game, Movies, Books</br>
+  Backpacking, Fishing, Game, Movies, Books
 jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
   default:
     body:
@@ -227,7 +226,8 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
               padding-left: 20px;
               backface-visibility: hidden;
               position: absolute;
-              top: 0;
+              top: 50%;
+              transform: translateY(-50%);
               transform-style: preserve-3d;
             }
             .effect-img {
