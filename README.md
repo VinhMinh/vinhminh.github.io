@@ -67,7 +67,7 @@ Industrial University of Ho Chi Minh City - IUH
 ## Work History
 
 <!-- slide vertical=true -->
-- **7-2016 - 6-2020**
+- **7-2017 - 6-2020**
 - **Company**: Bonseyjaden
 - **Position**: Web Developer
 - **Job description**: Front End, Wordpress, Laravel 5.
