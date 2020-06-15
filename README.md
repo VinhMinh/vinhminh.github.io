@@ -63,3 +63,37 @@ Industrial University of Ho Chi Minh City - IUH
 - **VSCode, Php designer, Sublime text, ...**, Familiar
 
 <!-- slide -->
+
+## Work History
+
+<!-- slide vertical=true -->
+- **7-2016 - 6-2020**
+- **Company**: Bonseyjaden
+- **Position**: Web Developer
+- **Job description**: Front End, Wordpress, Laravel 5.
+
+<!-- slide vertical=true -->
+- **11-2016 - 6-2017**
+- **Company**: Green Global
+- **Position**: Web Developer
+- **Job description**: Front End, Wordpress, Laravel 5.
+
+<!-- slide vertical=true -->
+- **11-2015 - 8-2016**
+- **Company**: Mat Bao Corporation
+- **Position**: Web Developer
+- **Job description**: Front End, Wordpress.
+
+<!-- slide vertical=true -->
+- **10-2014 - 11-2015**
+- **Company**: Eforce
+- **Position**: Web Developer
+- **Job description**: Wordpress, Zend 1, Seo, System Management.
+
+<!-- slide vertical=true -->
+- **6/2013 - 2/2014**
+- **Company**: Ivivu
+- **Position**: Web Developer
+- **Job description**: Front-End & Back-End Jomla, Wordpress.
+
+<!-- slide -->
