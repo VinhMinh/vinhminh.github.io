@@ -53,7 +53,7 @@ Industrial University of Ho Chi Minh City - IUH
 - **Node JS / React JS**, Familiar
 - **HTML5, Css, Javascript, Jquery**, Fluent
 - **Wordpress**, Fluent
-- **Php/Laravel 5, CodeIgnite**, Fluent 
+- **Php/Laravel 5, CodeIgniter**, Fluent 
 
 <!-- slide vertical=true -->
 
