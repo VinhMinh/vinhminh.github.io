@@ -34,7 +34,6 @@ Industrial University of Ho Chi Minh City - IUH
 ## Recent projects
 
 <!-- slide vertical=true -->
-- [Gomastertrader](https://gomastertrader.com/)
 - [IPC](https://www.ipc.com.my/)
 - [Pentavite](https://pentavite.com/)
 - [All Free](https://all-free.suntory.com/)
