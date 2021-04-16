@@ -34,10 +34,10 @@ Industrial University of Ho Chi Minh City - IUH
 ## Recent projects
 
 <!-- slide vertical=true -->
+- [Renaissance Collection](https://renaissance-collection.com.vn/)
 - [IPC](https://www.ipc.com.my/)
 - [Pentavite](https://pentavite.com/)
 - [All Free](https://all-free.suntory.com/)
-- [Renaissance Collection](https://renaissance-collection.com.vn/)
 - [Wmcprestige](http://wmcprestige.vn/)
 - [Chili](https://www.chili.vn/)
 
