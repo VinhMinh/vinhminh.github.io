@@ -39,7 +39,7 @@ Industrial University of Ho Chi Minh City - IUH
 - [Pentavite](https://pentavite.com/)
 - [All Free](https://all-free.suntory.com/)
 - [Wmcprestige](http://wmcprestige.vn/)
-- [Chili](https://www.chili.vn/)
+- [Specialems](https://specialems.edu.vn/)
 
 
 <!-- slide -->
