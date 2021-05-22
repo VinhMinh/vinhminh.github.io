@@ -67,6 +67,12 @@ Industrial University of Ho Chi Minh City - IUH
 ## Work History
 
 <!-- slide vertical=true -->
+- **9-2020 - Now**
+- **Company**: Enpointe
+- **Position**: Web Developer
+- **Job description**: Front End, Wordpress.
+
+<!-- slide vertical=true -->
 - **7-2017 - 6-2020**
 - **Company**: Bonseyjaden
 - **Position**: Web Developer
