@@ -37,6 +37,7 @@ Industrial University of Ho Chi Minh City - IUH
 - [Renaissance Collection](https://renaissance-collection.com.vn/)
 - [IPC](https://www.ipc.com.my/)
 - [Pentavite](https://pentavite.com/)
+- [Vietnam Tour Guide](https://vietnamtourguide.com/)
 - [All Free](https://all-free.suntory.com/)
 - [Wmcprestige](http://wmcprestige.vn/)
 - [Specialems](https://specialems.edu.vn/)
