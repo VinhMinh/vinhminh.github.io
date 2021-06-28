@@ -199,7 +199,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       disable: false # disable
       avatar: # Avatar
         enable: true
-        img: https://cdn.timviecnhanh.com/asset/home/img/seeker/5ee77c2b17e69_1592228907.jpg # Avatar
+        img: https://static.topcv.vn/avatars/CXjw3y67tmAitYeJgUQm_60c1886523706_cvtpl.jpg # Avatar
       nav: # Description
         - title: '<i class="fas fa-home fa-fw"></i> Home'
           href: /
